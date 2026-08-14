@@ -1,15 +1,52 @@
-# 💫 About Me:
-🔭 I’m currently working on scalable backend systems, high-throughput ad-tech pipelines, and cloud-native architectures on AWS, with a focus on reliability and low-latency APIs.<br><br>🤝 I’m looking for help with the complete lifecycle of developer tooling around my projects — from clean documentation and DX-focused CLIs to observability, testing automation, and open-source collaboration workflows.<br><br>🌱 I’m currently learning deeper internals of distributed systems (queues, schedulers, backpressure), ClickHouse/PostgreSQL performance tuning at scale, and production-grade AI integrations for image and content generation.<br><br>💬 Ask me about FastAPI, Node.js/TypeScript microservices, AWS (Lambda, SQS/SNS, ECS, SES, Pinpoint), high-throughput ad exchanges, ERPNext integrations, and designing scalable, event-driven backends.<br><br>⚡ Fun fact: I accidentally started as the “automation person” scripting build pipelines and ended up loving it so much that most of my work now revolves around automating everything from infra to AI image generation.
+# Hey there, I'm Chandu! 👋
 
-
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=chandusharma&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=chandusharma&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=chandusharma&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I'm a backend & cloud engineer focused on building high-throughput systems, event-driven architectures, and developer automation tooling.
 
 ---
-[![](https://komarev.com/ghpvc/?username=chandusharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+* 🔭 **Currently building:** Scalable backend systems, high-throughput ad-tech pipelines, and cloud-native architectures on AWS with low-latency APIs.
+* 🤝 **Looking to collaborate on:** Developer tooling lifecycle — DX-focused CLIs, clean documentation, observability, automated testing, and OSS workflows.
+* 🌱 **Diving deep into:** Distributed system internals (queues, schedulers, backpressure), ClickHouse & PostgreSQL tuning at scale, and production-grade AI pipelines for image/content generation.
+* 💬 **Ask me about:** FastAPI, Node.js/TypeScript microservices, AWS (Lambda, SQS/SNS, ECS, SES, Pinpoint), ad exchanges, ERPNext integrations, and event-driven patterns.
+* ⚡ **Fun fact:** I accidentally became the "automation person" scripting build pipelines — now I automate everything from cloud infrastructure to generative AI pipelines.
+
+---
+
+### 💻 Tech Stack & Tools
+
+#### 🚀 Languages & Frameworks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+#### 🗄️ Databases & Caching
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+
+#### ☁️ Cloud & DevOps / CI-CD
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black)
+
+#### 🧪 Testing & Automation
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+
+---
+
+### 📬 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/chandra-sharma)
